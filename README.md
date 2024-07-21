@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jett</h1>
 <h3 align="center">Business Analytics Student</h3>
 
-- 🔭 I’m currently working on **Predicting Loan Default**
+- 🔭 I’m currently working on **Predicting Loan Default**,**Real Estate Investment**
 
 - 🌱 I’m currently learning **AI and Machine Learning, Financial Analytics**
 
