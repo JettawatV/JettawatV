@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Jett</h1>
-<h3 align="center">Business Analytics Student</h3>
+<h3 align="center">Saas Entrepreneur</h3>
 
-- 🔭 I’m currently working on **Predicting Loan Default**,**Real Estate Investment**
+- 🔭 I’m currently building **AI Analytics Saas that helps SMEs utilize their data and achieve business growth**
 
-- 🌱 I’m currently learning **AI and Machine Learning, Financial Analytics**
+- 🌱 I’m currently learning **AI and Machine Learning, Web Application**
 
 - 📫 How to reach me **jettawatvd@gmail.com**
 
