@@ -8,10 +8,8 @@
 
 ### What I'm building
 
-A connector tool that pulls data from **Google Ads, Meta & GA4** and ports it to your destination of choice — so PPC agencies stop pulling reports manually and start making decisions faster.
-
-Currently in customer discovery — talking to agency owners before writing a single line of product code.
-
+A connector tool that pulls data from **Google Ads, Meta & GA4** and ports it to your destination of choice — so PPC agencies stop pulling reports manually and start making decisions faster. 
+Talking to PPC agency owners to understand their exact reporting pain points before building.
 ---
 
 ### What I do
