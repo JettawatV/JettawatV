@@ -8,8 +8,10 @@
 
 ### What I'm building
 
-A connector tool that pulls data from **Google Ads, Meta & GA4** and ports it to your destination of choice — so PPC agencies stop pulling reports manually and start making decisions faster. 
+<p>A connector tool that pulls data from **Google Ads, Meta & GA4** and ports it to your destination of choice. 
+So PPC agencies stop pulling reports manually and start making decisions faster. 
 Talking to PPC agency owners to understand their exact reporting pain points before building.
+</p>
 ---
 
 ### What I do
