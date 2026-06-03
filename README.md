@@ -46,4 +46,21 @@ Currently in customer discovery — talking to agency owners before writing a si
 **Web Dev**
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
-![Node.js](https:
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+
+---
+
+### Currently
+
+- 🔭 Building a PPC data connector — Google Ads + Meta + GA4 → one destination
+- 🌱 Learning Google Ads API, Meta Marketing API, full-stack web dev
+- 💬 Talking to PPC agencies about reporting workflows — **DM me if that's you**
+- 📫 jettawatvd@gmail.com
+
+---
+
+### Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jettawat-vuttipakdee-66a0a2180/)
