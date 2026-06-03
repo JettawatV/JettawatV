@@ -1,19 +1,47 @@
-<h1 align="center">Hi 👋, I'm Jett</h1>
-<h3 align="center">Saas Entrepreneur</h3>
+<h1>Hi, I'm Jett 👋</h1>
 
-- 🔭 I’m currently building **AI Analytics Saas that helps SMEs utilize their data and achieve business growth**
+<p>Data analyst building a <strong>PPC reporting automation tool</strong> for agencies.</p>
 
-- 🌱 I’m currently learning **AI and Machine Learning, Web Application**
+🟢 Open to freelance projects
 
-- 📫 How to reach me **jettawatvd@gmail.com**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/jettawat-vuttipakdee-66a0a2180/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jettawat-vuttipakdee-66a0a2180/" height="30" width="40" /></a>
-</p>
+### What I'm building
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> </p>
+A connector tool that pulls data from **Google Ads, Meta & GA4** and ports it to your destination of choice — so PPC agencies stop pulling reports manually and start making decisions faster.
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jettawatv&show_icons=true&locale=en&layout=compact" alt="jettawatv" /></p>
+Currently in customer discovery — talking to agency owners before writing a single line of product code.
 
+---
+
+### What I do
+
+- 🔧 **ETL Pipelines** — Python · SQL · PostgreSQL
+- 📊 **Dashboards** — Power BI · Looker Studio · GA4
+- 🤖 **ML Models** — scikit-learn · Pandas
+- 🔌 **APIs** — Google Ads · Meta Marketing · GA4
+
+---
+
+### Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![Google Ads](https://img.shields.io/badge/Google_Ads_API-4285F4?style=flat&logo=googleads&logoColor=white)
+![Meta](https://img.shields.io/badge/Meta_API-0866FF?style=flat&logo=meta&logoColor=white)
+
+---
+
+### Currently
+
+- 🔭 Building a PPC data connector — Google Ads + Meta + GA4 → one destination
+- 🌱 Learning Google Ads API, Meta Marketing API, web app dev
+- 💬 Talking to PPC agencies about reporting workflows — **DM me if that's you**
+- 📫 jettawatvd@gmail.com
+
+---
+
+### Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jettawat-vuttipakdee-66a0a2180/)
