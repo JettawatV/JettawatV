@@ -1,6 +1,6 @@
 <h1>Hi, I'm Jett 👋</h1>
 
-<p>Data analyst building a <strong>PPC reporting automation tool</strong> for agencies.</p>
+<p>Building AI Agent</p>
 
 🟢 Open to freelance projects
 
