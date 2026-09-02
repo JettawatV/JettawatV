@@ -1,6 +1,6 @@
 <h1>Hi, I'm Jett 👋</h1>
 
-<p>Building AI Agent</p>
+<p>Building AI Agent, Data Pipelines</p>
 
 🟢 Open to freelance projects
 
