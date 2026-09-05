@@ -1,62 +1,65 @@
 <h1>Hi, I'm Jett 👋</h1>
-
-<p>Building AI Agent, Data Pipelines</p>
-
-🟢 Open to freelance projects
+<p>Data Engineer building reliable pipelines for AI Agents</p>
+🟢 Open to freelance data engineering projects
 
 ---
 
 ### What I'm building
 
-<p>A connector tool that pulls data from **Google Ads, Meta & GA4** and ports it to your destination of choice. 
-So PPC agencies stop pulling reports manually and start making decisions faster. 
-Talking to PPC agency owners to understand their exact reporting pain points before building.
+<p>
+<b>Awesomemetrics</b> — a marketing data pipeline reliability & observability platform.
+It extracts data from Google Ads, Meta Ads & GA4, validates it, and surfaces failures instead of hiding them —
+so performance marketing agencies stop finding out their reports are wrong from a client.
 </p>
+
 ---
 
 ### What I do
 
-- 🔧 **ETL Pipelines** — Python · SQL · PostgreSQL
-- 📊 **Dashboards** — Power BI · Looker Studio · GA4
-- 🤖 **ML / AI** — scikit-learn · LLM APIs · Prompt Engineering
-- 🌐 **Web Dev** — React · TypeScript · Node.js · Next.js
+- 🔧 **Data Pipelines / ETL** — Python · SQL · PostgreSQL · Redis · Celery · FastAPI
+- 🔌 **API Integrations** — Google Ads API · Meta Marketing API · GA4 API
+- 📊 **Analytics & BI** — Power BI · Looker Studio · dashboarding on top of pipeline output
+- 🤖 **ML / AI (applied)** — scikit-learn · LLM APIs · using AI to speed up pipeline & tooling work
 
 ---
 
 ### Stack
 
-**Data & Analytics**
+**Data Engineering**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+![Celery](https://img.shields.io/badge/Celery-37814A?style=flat&logo=celery&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 
-**Ad APIs**
+**Ad & Data APIs**
 ![Google Ads](https://img.shields.io/badge/Google_Ads_API-4285F4?style=flat&logo=googleads&logoColor=white)
 ![Meta](https://img.shields.io/badge/Meta_API-0866FF?style=flat&logo=meta&logoColor=white)
 ![GA4](https://img.shields.io/badge/GA4_API-E37400?style=flat&logo=googleanalytics&logoColor=white)
+
+**BI & Visualization**
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![Looker Studio](https://img.shields.io/badge/Looker_Studio-4285F4?style=flat&logo=looker&logoColor=white)
 
 **AI Tools**
 ![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=flat&logo=openai&logoColor=white)
 ![Claude](https://img.shields.io/badge/Anthropic_Claude-CC785C?style=flat&logo=anthropic&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
 
-**Web Dev**
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+**Other**
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
 
 ---
 
 ### Currently
 
-- 🔭 Building a PPC data connector — Google Ads + Meta + GA4 → one destination
-- 🌱 Learning Google Ads API, Meta Marketing API, full-stack web dev
-- 💬 Talking to PPC agencies about reporting workflows — **DM me if that's you**
+- 🔭 Building **Awesomemetrics** — pipeline reliability & observability for agency ad data
+- 🌱 Deep in Google Ads API, Meta Marketing API, and OAuth/auth architecture across multi-account setups
+- 💬 Talking to PPC agency owners about where their reporting pipelines break — **DM me if that's you**
 - 📫 jettawatvd@gmail.com
 
 ---
