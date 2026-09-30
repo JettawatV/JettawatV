@@ -1,6 +1,6 @@
-<h1>Hi, I'm Jett 👋</h1>
+<h1>Hi, I'm Jettawat 👋</h1>
 <p>Data Engineer — building the data foundations AI agents run on</p>
-🟢 Open to freelance data engineering / AI infra projects
+🟢 Open to data engineering / AI infra projects
 
 ---
 
